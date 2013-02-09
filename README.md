@@ -3,6 +3,8 @@
 See the [Base16 repository](https://github.com/chriskempson/base16) for more information.
 This theme was built with [Base16 Builder](https://github.com/chriskempson/base16-builder).
 
+![Screenshot of Base16 for Xcode 4](https://github.com/joedynamite/base16-xcode4/raw/master/Screenshot.png)
+
 ## Installation
 
     cd ~/Library/Developer/Xcode/UserData/FontAndColorThemes
