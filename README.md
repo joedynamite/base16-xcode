@@ -1,5 +1,7 @@
 # Base16 for Xcode
 
+**NOTICE: I have not maintained or kept this theme up to date with whatever upstream changes may have happened to base16. You might want to check out [https://github.com/kreeger/base16-xcode](https://github.com/kreeger/base16-xcode) instead, it is now listed as the official Xcode version.**
+
 See the [Base16 repository](https://github.com/chriskempson/base16) for more information.
 This theme was built with [Base16 Builder](https://github.com/chriskempson/base16-builder).
 
